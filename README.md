@@ -1,7 +1,12 @@
-# Lighten Up
+# Lighten Up!
 
-A new Flutter project.
+"Lighten Up!" is an app developed with Flutter for low-light image enhancement using the Zero-DCE model trained on the LoL dataset.
+
+## App Preview
+
+<img src="images/LightenUp.png" alt="App Screenshot" width="300"/>
+<img src="images/LightenUpResult.png" alt="Enhancement Result in App" width="300"/>
 
 ## Getting Started
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+This repository was pushed from FlutterFlow. The APK is available for download to try.
