@@ -1,2 +1,7 @@
-# ml-LightenUp-2025
-"Lighten Up!" was made with friends for final project of Machine Learning (ML) subject
+# Lighten Up
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
